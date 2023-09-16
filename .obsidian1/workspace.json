@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "c04d0283507bfd43",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a7825fc6c4cfccc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4adea0e3e5064a0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "abd595574ed85d0a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Engrams/Active Engrams/DeSciWorld WP question.canvas",
+                "viewState": {
+                  "x": -6798.065873558829,
+                  "y": -854.8462603325678,
+                  "zoom": -1.0615040716528898
+                }
+              }
+            }
+          },
+          {
+            "id": "b561621509760d88",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dddb83153a2b987f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7986586a967931c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4db4c084e244185",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "198a72eb0ee28cce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f6bb900c6cf25424",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "893b05cb22fabb95",
+    "type": "split",
+    "children": [
+      {
+        "id": "a050ddee97ee7776",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfd051548dc1261f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Engrams/Active Engrams/DeSciWorld WP question.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "435498746dba7176",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Engrams/Active Engrams/DeSciWorld WP question.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5de81f32ce6a6be6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "baeff767edec8fda",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Engrams/Active Engrams/DeSciWorld WP question.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "abd595574ed85d0a",
+  "lastOpenFiles": [
+    "Engrams/Active Engrams/3 star output.md",
+    "nerd-brain-plugins/README.md",
+    "README/README.md",
+    "nerd-brain-plugins/zk-prefixer.json",
+    "nerd-brain-plugins/workspace.json",
+    "nerd-brain-plugins/text-generator.json",
+    "nerd-brain-plugins/publish.json",
+    "nerd-brain-plugins/plugins/text-extractor/cache/09430aeaaead0940a09837710850b792.json",
+    "nerd-brain-plugins/plugins/bmo-chatbot/data/messageHistory.json",
+    "nerd-brain-plugins/plugins/text-extractor/manifest.json",
+    "nerd-brain-plugins/plugins/text-extractor/main.js",
+    "nerd-brain-plugins/plugins/text-extractor/data.json",
+    "nerd-brain-plugins/plugins/text-extractor/cache",
+    "Engrams/Active Engrams/DeSciWorld WP question.canvas",
+    "Engrams/Active Engrams/202308181749_MerTK.canvas",
+    "Engrams/Active Engrams/Inteligencia Artificial como un medio de comunicación..canvas",
+    "Engrams/Active Engrams/Hydranet Research Hub-0.canvas",
+    "Engrams/Active Engrams/Human Embeddings.md",
+    "Engrams/Active Engrams/Hex_Research_Hub.canvas",
+    "Engrams/Active Engrams/ENgramMakerTable.md",
+    "Engrams/Active Engrams/Engram State Log.md",
+    "Engrams/Active Engrams/Engram Research WoW NFT.md",
+    "Engrams/Active Engrams/DND Knowledge Graph.canvas",
+    "Engrams/Active Engrams/WOW NFT.canvas",
+    "Untitled 1.md",
+    "Untitled.md"
+  ]
+}
